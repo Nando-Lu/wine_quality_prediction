@@ -20,7 +20,7 @@ O conjunto de dados contém diversas propriedades de vinhos, como:
 ## 🚀 Fluxo do Projeto
 1. **Captura dos dados** 
 2. **Análise dos dados**
-3. **Pré-processamento dos dados:** Separando os dados dos rótulos. Aqui, vinhos com qualidade igual ou maior que 7 receberam o rótulo 1, e abaixo disso receberam o rótulo 0
+3. **Pré-processamento dos dados:** Separando os dados dos rótulos. Aqui, vinhos com qualidade igual ou maior que 7 receberam o rótulo 1(boa qualidade), e abaixo disso receberam o rótulo 0
 4. **Divisão dos dados:** Dividindo os dados de teste e treinamento 
 5. **Alimentar/treinar o modelo**
 6. **Testando o modelo**
