@@ -8,7 +8,7 @@ O conjunto de dados contém diversas propriedades de vinhos, como:
 * Teor alcoólico
 * pH
 * Densidade
-* **Alvo (Target):** Qualidade do vinho
+* **Quality (Target):** Qualidade do vinho
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python 3.x
